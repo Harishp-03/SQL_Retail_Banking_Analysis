@@ -101,11 +101,5 @@ SQL-Retail-Banking-Analysis/
 └── README.md
 ```
 
-Additional documentation, insights, or presentation files can be added to the repository when needed.
 
-## 👨‍💻 Author
-
-**Harish Patil**
-
-B.Tech Computer Science Engineering | Aspiring Data Analyst
 
